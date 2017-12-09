@@ -1,0 +1,17 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^23.0.0",
+    "react": "16.0.0",
+    "react-native":
+      "https://github.com/expo/react-native/archive/sdk-23.0.0.tar.gz",
+    "react-native-ibeacon": "^0.6.0",
+    "react-native-ibeacon-simulator": "^1.0.10",
+    "react-native-kontaktio": "^2.0.4",
+    "react-native-permissions": "^1.0.1"
+  },
+  "scripts": {
+    "start": "exp start"
+  }
+}

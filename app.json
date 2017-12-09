@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "ibeacons",
+    "description": "An empty new project",
+    "slug": "ibeacons",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.chadhamre.bacon",
+      "publishBundlePath": "ios/ibeacons/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/ibeacons/Supporting/shell-app-manifest.json"
+    },
+    "android": {
+      "package": "com.chadhamre.bacon"
+    },
+    "isDetached": true,
+    "detach": {
+      "scheme": "exp66a7824a4fc94d8ca63b85058f5041a2",
+      "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v2.1.1-sdk23.0.0-4924d4b7-b08d-4fa6-856a-b5fd6afb8078.tar.gz",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.1.0-sdk23.0.0-75bac25a-6a5c-4d39-b101-6983194879a3.tar.gz"
+    }
+  }
+}
